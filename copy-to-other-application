@@ -1,0 +1,7 @@
+my $ceph = get cmdb 'ceph';
+my $hostname = run 'hostname';
+my $config = $ceph→{$hostname};
+
+file '/etc/ceph/ceph.client.admin.keyring',
+source => 'files/etc/ceph/ceph.client.admin.keyring',
+owner => 'ceph';

@@ -1,0 +1,7 @@
+https://jovicailic.org/mastering-vim-quickly/
+
+## what’s this?
+I wrote a book, on Vim, called: Mastering Vim Quickly: From WTF to OMG in no time.
+I want to tell you a bit about it.
+
+## what kind of title is that, are you serious?
