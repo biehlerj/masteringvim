@@ -1,3 +1,3 @@
-Pages read: 5
-Page left off on: 73
-Chapter on: Effective multiple file editing
+Pages read: 15
+Page left off on: 89
+Chapter on: Plugins
